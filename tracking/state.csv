@@ -3,7 +3,7 @@ P0001,,completed,38179254,2026-11-18T13:40:38.118Z,
 P0001,S0001,completed,,,pass|297915765|2026-11-18T13:43:03.086Z
 T0001,,completed,38179254,2026-11-18T13:47:44.643Z,
 T0001,S0001,completed,,,pass|297915765|2026-11-18T13:48:58.102Z
-T0002,,encoding_required,,,
-T0002,S0001,pending,,,
+T0002,,validation_required,297915765,2026-11-18T13:52:57.619Z,
+T0002,S0001,validation_required,,,
 T0003,,encoding_required,,,
 T0003,S0001,pending,,,
